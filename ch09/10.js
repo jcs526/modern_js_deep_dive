@@ -1,0 +1,2 @@
+if (' ')
+    console.log(x);
